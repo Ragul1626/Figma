@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-home page
+home page```
 
 <div style="width: 393px; height: 852px; position: relative; background: white"></div>
 <img style="width: 393px; height: 852px; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px black solid" src="https://via.placeholder.com/393x852" />
@@ -98,6 +98,7 @@ contact page
   <div style="width: 218px; height: 13px; left: 87px; top: 244px; position: absolute; text-align: center; color: black; font-size: 14px; font-family: Andada Pro; font-weight: 500; word-wrap: break-word">An awe-inspiring showcase of creativity, each stroke and sculpture tells a story, inviting us to explore the artist's world.</div>
   <div style="width: 267px; height: 13px; left: 60px; top: 381px; position: absolute; text-align: center; color: #DAD31E; font-size: 14px; font-family: Andada Pro; font-weight: 500; word-wrap: break-word">E-Mail<br/>savethaengineeringcollege@gmail.com<br/>Phone<br/>9063743779<br/>9863677367</div>
 </div>
+```
 ## OUTPUT:
 ![326688446-df594f4b-d6e8-4c2f-aab5-3a7e451b78df](https://github.com/user-attachments/assets/3acd4a98-e307-412d-b730-e4912d93db55)
 
