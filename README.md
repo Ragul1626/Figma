@@ -33,7 +33,8 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-home page```
+home page
+```
 
 <div style="width: 393px; height: 852px; position: relative; background: white"></div>
 <img style="width: 393px; height: 852px; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border: 1px black solid" src="https://via.placeholder.com/393x852" />
